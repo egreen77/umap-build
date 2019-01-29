@@ -1,0 +1,6 @@
+[submodule "src/umap"]
+	path = src/umap
+	url = git@github.com:LLNL/umap.git
+[submodule "src/umap-apps"]
+	path = src/umap-apps
+	url = git@github.com:LLNL/umap-apps.git
